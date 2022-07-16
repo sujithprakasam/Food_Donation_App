@@ -1,0 +1,9 @@
+uid:
+name:
+email:
+phoneNumber:
+totalDonations:
+food: []
+others: []
+location:
+image: 

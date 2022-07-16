@@ -1,0 +1,13 @@
+// NGO NAME(as per NGO Darpan)
+// NGO REG NO.(as per NGO Darpan)
+// Unique Id of NGO
+// PAN Card NUmber of NGO
+// City of Registration
+// State of Registration
+// Name of Head of the NGO
+// Address of the NGO
+// Location of the NGO
+// Pincode
+// Email
+// Mobile Number
+// Password

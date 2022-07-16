@@ -1,0 +1,7 @@
+title: snapshot['title'],
+description: snapshot['description'],
+timecooked: snapshot['timecooked'],
+foodphotoUrl: snapshot['foodphotoUrl'],
+location: snapshot['location'],
+status: snapshot['status'],
+donatoruid: snapshot['donatoruid'],
